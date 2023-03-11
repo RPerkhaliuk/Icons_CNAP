@@ -4,7 +4,7 @@
 	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
-	.st1{fill:#808080;}
+	.st1{fill:#A6A6A6;}
 	.st2{fill:#FFFFFF;}
 </style>
 <g id="Шар_3" class="st0">
@@ -13,7 +13,7 @@
 	<path class="st1" d="M9.6,11H1.4C0.6,11,0,10.4,0,9.6V1.4C0,0.6,0.6,0,1.4,0h8.3C10.4,0,11,0.6,11,1.4v8.3C11,10.4,10.4,11,9.6,11z
 		"/>
 	<g>
-		<path class="st2" d="M7.4,9.1v-1H3.5V3.2h0.6v4.4h2.6V3.2h0.6v4.4H8v1.5L7.4,9.1L7.4,9.1z"/>
+		<path class="st2" d="M7.4,9.1v-1H3.5V3.2h0.6v4.4h2.6V3.2h0.6v4.4H8v1.5H7.4L7.4,9.1z"/>
 	</g>
 </g>
 </svg>
